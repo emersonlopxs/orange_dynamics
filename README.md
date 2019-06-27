@@ -13,3 +13,4 @@ o intuito é a consolidação do conhecimento das tecnologias base da web.
 
 Contribuidores:
 Natan Dias
+Lucas Filipe 
