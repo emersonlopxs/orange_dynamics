@@ -10,3 +10,6 @@ tecnologias usadas:
 nenhum framework or biblioteca será usado neste projeto
 
 o intuito é a consolidação do conhecimento das tecnologias base da web.
+
+Contribuidores:
+Natan Dias
