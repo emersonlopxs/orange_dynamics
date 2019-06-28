@@ -1,4 +1,4 @@
-# orange_dynamics - unimontes
+﻿# orange_dynamics - unimontes
 
 repo criado para treinamento de alunos da Universidade Estadual de Montes Claros no desenvolvimentos de sites e web apps.
 
@@ -14,3 +14,4 @@ o intuito é a consolidação do conhecimento das tecnologias base da web.
 Contribuidores:
 Natan Dias
 Lucas Filipe 
+Gabriel Abreu
