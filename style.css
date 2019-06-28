@@ -1,0 +1,29 @@
+::root {
+  --var-main-color: #df5431;
+  --var-foreground-color: #f3d8ab;
+  --var-accent-1: #edc797;
+}
+
+/* 
+  utilizaremos rem's ao inves de pixels pra:
+    fontes
+    paddings
+    margins
+
+  1rem = 10px
+  2rem = 20px
+  nas configuracoes padroes dos navegadores
+  ...
+*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+  background-color: #df5431;
+  color: #fff;
+  font-family: sans-serif;
+}
