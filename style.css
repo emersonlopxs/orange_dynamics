@@ -27,3 +27,8 @@ html {
   color: #fff;
   font-family: sans-serif;
 }
+
+h1 {
+  /* 3.6rem = 36px */
+  font-size: 3.6rem;
+}
